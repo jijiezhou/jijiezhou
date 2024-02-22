@@ -14,7 +14,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 
 - 🔭 &nbsp; I’m currently a Computer Science Senior at UNC-Chapel Hill
 - 🤝 &nbsp; I’m actively looking for Software Engineer Intern and Full Time
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/jijie-zhou)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/jijiezhou)
 - 📝 &nbsp; Checkout my [portforlio](www.google.com)
 - 📚 &nbsp; I am backpacker for solo traveling
 
