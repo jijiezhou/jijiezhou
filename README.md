@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm Jijie Zhou!
-<a href='www.linkedin.com/in/jijie-zhou'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='www.linkedin.com/in/jijiezhou'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 
 I am an Undergrade at UNC-Chapel Hill in Computer Science and Full Stack Web Developer 🌐.<br/>
