@@ -1,6 +1,6 @@
 
 ## Hey 👋, I'm Jijie Zhou!
-<a href='www.linkedin.com/in/jijiezhou'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/jijiezhou'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 
 I am an Undergrade at UNC-Chapel Hill in Computer Science and Full Stack Web Developer 🌐.<br/>
@@ -14,8 +14,8 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 
 - 🔭 &nbsp; I’m currently a Computer Science Senior at UNC-Chapel Hill
 - 🤝 &nbsp; I’m actively looking for Software Engineer Intern and Full Time
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/jijiezhou)
-- 📝 &nbsp; Checkout my [portforlio](www.google.com)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jijiezhou)
+- 📝 &nbsp; Checkout my [portforlio](https://jijiezhou.github.io)
 - 📚 &nbsp; I am backpacker for solo traveling
 
 <br>
