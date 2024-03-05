@@ -1,6 +1,5 @@
 
 ## Hey 👋, I'm Jijie Zhou!
-<a href='https://www.linkedin.com/in/jijiezhou'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 
 I am an Undergrade at UNC-Chapel Hill in Computer Science and Full Stack Web Developer 🌐.<br/>
@@ -36,5 +35,3 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-### 🛠️ My Projects
