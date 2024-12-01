@@ -2,7 +2,7 @@
 ## Hey 👋, I'm Jijie Zhou!
 <br/>
 
-I am an Undergrade at UNC-Chapel Hill in Computer Science and Full Stack Web Developer 🌐.<br/>
+I've graduated from UNC-Chapel Hill in Computer Science & Mathematics and I'm Full Stack Web Developer 🌐.<br/>
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -11,7 +11,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently a Computer Science Senior at UNC-Chapel Hill
+- 🔭 &nbsp; I've graduated from UNC-Chapel Hill in Computer Science & Mathematics
 - 🤝 &nbsp; I’m actively looking for Software Engineer Intern and Full Time
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jijiezhou)
 - 📝 &nbsp; Checkout my [portforlio](https://jijiezhou.github.io)
