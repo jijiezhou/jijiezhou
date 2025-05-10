@@ -2,7 +2,7 @@
 ## Hey 👋, I'm Jijie Zhou!
 <br/>
 
-I've graduated from UNC-Chapel Hill in Computer Science & Mathematics and I'm Full Stack Web Developer 🌐.<br/>
+I'm software development engineer at AWS Amazon. I've graduated from UNC-Chapel Hill in Computer Science & Mathematics 🌐.<br/>
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -11,11 +11,11 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   
 ### 🧐 More About Me:
 
+- 🤝 &nbsp; I’m SDE @ AWS
 - 🔭 &nbsp; I've graduated from UNC-Chapel Hill in Computer Science & Mathematics
-- 🤝 &nbsp; I’m actively looking for Software Engineer Full Time
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jijiezhou)
 - 📝 &nbsp; Checkout my [portforlio](https://jijiezhou.github.io)
-- 📚 &nbsp; I am backpacker for solo traveling
+- 📚 &nbsp; I am a solo traveling backpacker
 
 <br>
 
