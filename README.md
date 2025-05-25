@@ -11,7 +11,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   
 ### 🧐 More About Me:
 
-- 🤝 &nbsp; SDE @ AWS
+- 🤝 &nbsp; SDE @ Tech
 - 📚 &nbsp; UNC-Chapel Hill in CS & Math
 - 🔭 &nbsp; Solo Traveling Backpacker & Adventurer
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jijiezhou)
