@@ -2,7 +2,7 @@
 ## Hey 👋, I'm Jijie Zhou!
 <br/>
 
-I'm software development engineer at AWS Amazon. I've graduated from UNC-Chapel Hill in Computer Science & Mathematics 🌐.<br/>
+I'm software development engineer at MAANG. I've graduated from UNC-Chapel Hill in Computer Science & Mathematics 🌐.<br/>
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
